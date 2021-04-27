@@ -34,7 +34,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 ```
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [X] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
@@ -58,7 +58,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
 - [ ] flag; tag
-- [ ] category; flag
+- [X] category; flag
 - [ ] flag; category
 
 #### 10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
@@ -68,7 +68,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] The task is in Nalia's task list, and Nalia is the owner until she reassigns it to you.
 
 #### 11. What does Outlook automatically point out to you when you are invited to a meeting?
-- [ ] if your attendance is mandatory
+- [X] if your attendance is mandatory
 - [ ] ifthe meeting is high or low priority
 - [ ] the amount of time you have between this meeting and your next event
 - [ ] if the meeting is adjacent to another event in your calendar
@@ -76,7 +76,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
 - [ ] an alert
-- [ ] a notice
+- [X] a notice
 - [ ] a bell icon
 
 #### 13. Some of your inbox folder are used for annual or biannual projects, while others are used for work that is not based on projects. The same is true for your calendars. How can you use archiving to increase your efficiency and minimize the size of your mailbox?
@@ -95,14 +95,14 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
-- [ ] Delivery receipt
+- [X] Delivery receipt
 - [ ] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
 
 #### 16. A message on your summary list appears with a paper clip icon and an arrow pointing to the left. What does this indicate?
 
-- [ ] The message has been replied to and contains an attachment
+- [X] The message has been replied to and contains an attachment
 - [ ] The message has been flagged and contains an attachment
 - [ ] None of these answers
 - [ ] The message has been forwarded and contains an attachment
@@ -112,13 +112,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Sending the contact is faster because the contact itself has no formatting
 - [ ] Sharing a contact is superior because more email systems support Outlook contacts rather than business cards
 - [ ] There is no real difference
-- [ ] Your business card can be edited to omit personal information such as a home phone
+- [X] Your business card can be edited to omit personal information such as a home phone
 
 #### 18. You have received an email message with detailed notes that you need to analyze before responding, so you want to save it as a task. What is the best way to create a new task that includes the notes in the body of the task?
 
 - [ ] Right click the email message, drag and drop it on the Tasks icon, and click Copy Here as Task with Attachment
 - [ ] Copy and paste the notes into a new task form
-- [ ] Drag the email message and drop it on the Tasks icon
+- [X] Drag the email message and drop it on the Tasks icon
 - [ ] Right click the email message, drag and drop it on the Tasks icon, and click Move Here as Task with Attachment
 
 #### 19. There are two types of Outlook rules. One is server-based rules, which run for Exchange Server. What are the other kind, which in part or in whole cannot run on Exchange Server, and when do the execute?
@@ -145,7 +145,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 22. What is not a built-in search filter for message folder?
 
 - [ ] Has Attachments
-- [ ] Sent to me as Bcc
+- [X] Sent to me as Bcc
 - [ ] Categorized
 - [ ] Not sent directly to me
 
@@ -167,7 +167,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] color
 - [ ] folder
-- [ ] name
+- [X] name
 - [ ] name and color
 
 #### 26. Outlook autocompletes email addresses you have used previously, including addresses that you mistyped. How can you remove an incorrect autocomplete suggestion?
@@ -237,7 +237,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] Reader
 - [ ] Author
 - [ ] Reviewer
-- [ ] Editor
+- [X] Editor
 
 #### 35. Why might you create an additional contacts folder?
 
